@@ -103,7 +103,7 @@ We use ShadCN UI components, which are built on top of Radix UI:
 
 ```bash
 # Add more components
-npx shadcn-ui@latest add [component-name]
+npx shadcn@latest add [component-name]
 ```
 
 ## License
